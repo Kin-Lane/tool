@@ -1,7 +1,7 @@
 {
   "name": "Kin Lane - Tool",
-  "description": "This is my default tool API, using it to manage posts in a single API. It is a Stack Network API resource, with supporting docker container for the API.",
-  "image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tool-icon.png",
+  "description": "This is my default tool API, using it to manage tools in a single API. It is a Stack Network API resource, with supporting docker container for the API.",
+  "image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tools.png",
   "tags": [
     "application programming interface",
     "API",
@@ -15,7 +15,7 @@
     {
       "name": "Tool",
       "description": "A tool API resource.",
-      "image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tool-icon.png",
+      "image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tools.png",
       "humanURL": "https://kin-lane.github.io/tool/",
       "baseURL": "http://tool.api.kinlane.com",
       "tags": [
