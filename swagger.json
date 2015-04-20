@@ -41,8 +41,7 @@
           }
         },
         "tags": [
-          "tool",
-          "toolging"
+          "Tools"
         ]
       },
       "post": {
@@ -91,8 +90,7 @@
           }
         },
         "tags": [
-          "tool",
-          "toolging"
+          "Tools"
         ]
       }
     },
@@ -123,8 +121,7 @@
           }
         },
         "tags": [
-          "tool",
-          "toolging"
+          "Tools"
         ]
       },
       "put": {
@@ -180,8 +177,7 @@
           }
         },
         "tags": [
-          "tool",
-          "toolging"
+          "Tools"
         ]
       },
       "delete": {
@@ -209,8 +205,7 @@
           }
         },
         "tags": [
-          "tool",
-          "toolging"
+          "Tools"
         ]
       }
     }
