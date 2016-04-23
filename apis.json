@@ -1,4 +1,4 @@
-[{
+{
 	"name": "Kin Lane Tool API",
 	"description": "This is one of my older systems, providing access to the open source tools that I keep track on across the API space. While I have had this system for a while, I am only beginning to sync it with Github, and really start pushing forward the content and relationships that exist here. (ie. who is developing, updates to companies, etc.) This provides API access to all of the open source tools I am tracking on and associating with other aspects of my research.",
 	"image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tools.png",
@@ -6,7 +6,7 @@
 	"tags": ["Kin Lane Tool API"],
 	"created": "2016-04-04",
 	"modified": "2016-04-04",
-	"url": "https://kin-lane.github.io/tool/"
+	"url": "https://kin-lane.github.io/tool/",
 	"specificationVersion": "0.14",
 	"apis": [{
 		"name": "Kin Lane Tool API",
@@ -117,4 +117,4 @@
 		"x-twitter": "apievangelist",
 		"email": "info@apievangelist.com"
 	}]
-}]
+}
